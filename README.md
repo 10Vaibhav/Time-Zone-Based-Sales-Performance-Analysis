@@ -1,4 +1,4 @@
-# Sales Data Analysis Across Different Time Zones
+# Cross-Time Zone Retail Sales Analysis
 
 ## Overview
 
