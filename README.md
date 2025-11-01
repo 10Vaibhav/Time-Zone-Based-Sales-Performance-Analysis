@@ -77,9 +77,27 @@ pip install pandas pytz matplotlib
 ## Results
 
 The analysis provides insights into:
-- Sales distribution across different time zones
-- Average revenue by retailer type
-- Temporal patterns in sales data
-- Geographic sales performance
+
+### Sales Distribution by Time Zone
+- **EST (Eastern Standard Time)**: 40 sales (40% of total)
+- **Australia/West**: 17 sales (17% of total)
+- **CET (Central European Time)**: 16 sales (16% of total)
+- **GMT (Greenwich Mean Time)**: 11 sales (11% of total)
+- **EET (Eastern European Time)**: 8 sales (8% of total)
+- **Singapore**: 8 sales (8% of total)
+
+### Average Sales Revenue by Time Zone
+- **EET**: $586.69 (highest average)
+- **CET**: $415.71
+- **Australia/West**: $273.11
+- **EST**: $230.39
+- **GMT**: $115.14
+- **Singapore**: $27.69 (lowest average)
+
+### Key Findings
+- EST has the highest number of transactions (40%) but a moderate average revenue
+- EET has the highest average revenue per transaction despite having only 8% of total sales
+- Geographic sales performance varies significantly across time zones
+- Temporal patterns show distinct sales behaviors in different regions
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
