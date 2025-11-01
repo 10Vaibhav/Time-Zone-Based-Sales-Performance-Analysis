@@ -89,6 +89,7 @@ The analysis provides insights into:
 ### Total Sales Revenue by Time Zone
 
 ![Total Sales Revenue by Time Zone](./images/total_sales_revenue_by_timezone.png)
+
 *Figure: Bar chart showing total sales revenue across different time zones*
 
 - **EST**: ~$9,215 (highest total revenue)
@@ -107,6 +108,7 @@ The analysis provides insights into:
 - **Singapore**: $27.69 (lowest average)
 
 ![Average Sales per Time Zone](./images/average_sales_per_timezone.png)
+
 *Figure: Bar chart showing average sales revenue across different time zones*
 
 ### Key Findings
