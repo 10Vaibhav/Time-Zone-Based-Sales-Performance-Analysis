@@ -86,6 +86,18 @@ The analysis provides insights into:
 - **EET (Eastern European Time)**: 8 sales (8% of total)
 - **Singapore**: 8 sales (8% of total)
 
+### Total Sales Revenue by Time Zone
+
+![Total Sales Revenue by Time Zone](./images/total_sales_revenue_by_timezone.png)
+*Figure: Bar chart showing total sales revenue across different time zones*
+
+- **EST**: ~$9,215 (highest total revenue)
+- **CET**: ~$6,651
+- **Australia/West**: ~$4,643
+- **EET**: ~$4,694
+- **GMT**: ~$1,267
+- **Singapore**: ~$222 (lowest total revenue)
+
 ### Average Sales Revenue by Time Zone
 - **EET**: $586.69 (highest average)
 - **CET**: $415.71
@@ -93,6 +105,9 @@ The analysis provides insights into:
 - **EST**: $230.39
 - **GMT**: $115.14
 - **Singapore**: $27.69 (lowest average)
+
+![Average Sales per Time Zone](./images/average_sales_per_timezone.png)
+*Figure: Bar chart showing average sales revenue across different time zones*
 
 ### Key Findings
 - EST has the highest number of transactions (40%) but a moderate average revenue
