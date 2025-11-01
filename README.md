@@ -82,6 +82,4 @@ The analysis provides insights into:
 - Temporal patterns in sales data
 - Geographic sales performance
 
-## Author
-
-Data analysis project for understanding datetime operations and timezone handling in Python.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
